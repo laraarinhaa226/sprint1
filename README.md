@@ -43,6 +43,10 @@ A escolha do Python no Google Colab foi feita por ser uma ferramenta acessível 
 Fluxograma: 
 
 
+<img width="637" height="707" alt="Captura de tela 2026-05-21 221227" src="https://github.com/user-attachments/assets/775a60d6-10da-4e8d-8381-088083a6d2d4" />
+
+
+
  
 
 
